@@ -80,7 +80,7 @@ function BookingForm() {
         </select>
 
         {/* <input className="button" type="submit" value="Make Your Reservation" aria-label="Submit reservation form" /> */}
-        <button type="submit">Make Your Reservation</button>
+        <button className="button" type="submit" >Make Your Reservation</button>
       </form>
     </div >
   );
